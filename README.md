@@ -7,9 +7,9 @@
     **If you don't want to go through the above guide, *absolutely make sure* that you have [7-zip](https://www.7-zip.org/), [ublock origin](https://ublockorigin.com/) and [fast forward](https://fastforward.team/) before visiting any sites given below**
 ***
 
-##### - [Emulators and Guides](https://rentry.org/emupemu)
+##### - [Emulators and Guides](https://github.com/Abd-007/EmuP-Megathread/blob/main/Emu.md)
 
-##### - [Games and ROMs](https://rentry.org/emupgames)
+##### - [Games and ROMs](https://github.com/Abd-007/EmuP-Megathread/blob/main/Games.md)
 
 
 ***
