@@ -172,4 +172,4 @@ Emulator | Platforms | Info/Notes
 [Flycast](https://github.com/flyinghead/flycast) | Windows, Linux, macOS, Android | 
 
 ***
-### [Go back](https://rentry.org/emupmega)
+### [Go back](https://github.com/Abd-007/EmuP-Megathread/blob/main/README.md)
