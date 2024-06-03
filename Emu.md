@@ -126,7 +126,8 @@ Emulator | Platforms | Info/Notes
 [RPCSX](https://rpcsx.github.io/rpcsx-site/) | Linux | 
 
 #### PlayStation 5
-!!! warning **There are currently no working emulators for PlayStation 5**
+> [!WARNING]
+> **There are currently no working emulators for PlayStation 5**
 
 ***
 ### Microsoft
@@ -143,10 +144,12 @@ Emulator | Platforms | Info/Notes
 :star: [Xenia](https://xenia.jp) | Windows | 
 
 #### Xbox One
-!!! warning There are currently no working Xbox One emulators
+> [!WARNING]
+>  There are currently no working Xbox One emulators
 
 #### Xbox Series X|S
-!!! warning There are currently no working Xbox Series X|S emulators
+> [!WARNING]
+>  There are currently no working Xbox Series X|S emulators
 ***
 ### Sega
 
