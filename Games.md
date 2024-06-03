@@ -70,4 +70,4 @@ https://www.reddit.com/r/PkgLinks/
 
 ------------------------------
 
-### [Go back](https://github.com/Abd-007/EmuP-Megathread)
+### [Go back](https://github.com/Abd-007/EmuP-Megathread/blob/main/README.md)
