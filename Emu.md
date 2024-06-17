@@ -82,7 +82,7 @@ Emulator | Platforms | Info/Notes
 #### Nintendo Switch
 Emulator | Platforms | Info/Notes
 :----: | :--- | :---
-:star: [Ryujinx](https://ryujinx.org) | Windows, Linux, macOS | [Keys and Firmware (Required)](https://rentry.org/128bbkeys), [Setup Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md)
+:star: [Ryujinx](https://ryujinx.org) | Windows, Linux, macOS | Keys and Firmware Required, [Setup Guide](https://github.com/Abd-007/Switch-Emulators-Guide/blob/main/Ryujinx.md)
 
 ***
 ### Sony
