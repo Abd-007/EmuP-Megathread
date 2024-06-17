@@ -10,7 +10,7 @@
 >  info For emulation on IOS, check [Delta](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) and [RetroArch](https://apps.apple.com/us/app/retroarch/id6499539433) for supported consoles. RetroArch is available for android and PC too, but it is recommended to use individual emulators instead, especially on PC
  
 > [!TIP]
->  info Use `Ctrl + F` to quickly find what you're looking for.
+> Use `Ctrl + F` to quickly find what you're looking for.
 
 
 ### Nintendo
