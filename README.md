@@ -15,7 +15,7 @@
 ***
 
 - [**Discord**](https://discord.gg/Zp3NEGQme4) **(No Piracy allowed on the discord)**
-- 
+ 
 - [**Subreddit**](https://www.reddit.com/r/EmulationPiracy/)
 
 - [**Rentry Backup**](https://rentry.org/emupmega)
