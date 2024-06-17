@@ -10,7 +10,9 @@
 ##### - [Emulators and Guides](https://github.com/Abd-007/EmuP-Megathread/blob/main/Emu.md)
 
 ##### - [Games and ROMs](https://github.com/Abd-007/EmuP-Megathread/blob/main/Games.md)
+***
 
+**If you see any errors or want to suggest an addition, you can do so in the #server-megathread-suggestions channel in our discord or by opening an issue/pull request here.**
 
 ***
 
