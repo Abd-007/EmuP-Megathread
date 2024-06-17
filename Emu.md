@@ -115,7 +115,9 @@ Emulator | Platforms | Info/Notes
 :star: [Vita3k](https://vita3k.org) | Windows, Linux, macOS, Android | 
 
 #### PlayStation 4
-!!! info PlayStation 4 emulation is still in its very early stages, and no emulators can yet play any 3D games.
+>[!WARNING]
+> PlayStation 4 emulation is still in its very early stages, and no emulators can yet play any 3D games.
+
 Emulator | Platforms | Info/Notes
 :----: | :--- | :---
 [fpPS4](https://fpps4.net) | Windows | [Download](https://github.com/KimieStar/TL_Installer_Prototype) 
