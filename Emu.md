@@ -13,9 +13,6 @@
 >  info Use `Ctrl + F` to quickly find what you're looking for.
 
 
-**Table of Contents**
-[TOC2]
-
 ### Nintendo
 
 #### NES
