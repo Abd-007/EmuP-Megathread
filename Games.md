@@ -9,10 +9,6 @@ https://rentry.org/pgames
 
 #### **Multiple game collections for ROMs and ISOs**
 
-**Roms Megathread V4 (all consoles):**
-
-https://pastelink.net/28fga
-
 **/r/Roms Megathread (all consoles):**
 
 https://r-roms.github.io/
