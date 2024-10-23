@@ -120,6 +120,7 @@ Emulator | Platforms | Info/Notes
 
 Emulator | Platforms | Info/Notes
 :----: | :--- | :---
+[ShadPS4](https://shadps4.net) | Windows, Linux, macOS | Can run games such as Bloodborne and Red Dead Redemption 
 [fpPS4](https://fpps4.net) | Windows | [Download](https://github.com/KimieStar/TL_Installer_Prototype) 
 [Obliteration](https://github.com/obhq/obliteration) | Windows, Linux, macOS | 
 [RPCSX](https://rpcsx.github.io/rpcsx-site/) | Linux | 
