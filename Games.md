@@ -19,7 +19,7 @@ https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7
 
 **List of sites for Switch games**
 
-https://nxbrew.com/
+https://nxbrew.net/
 
 https://nsw2u.xyz/
 
